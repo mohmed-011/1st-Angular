@@ -1,0 +1,13 @@
+.plusIcon{
+  font-size: 100px;
+}
+.innerproto{
+  cursor: pointer;
+}
+.lyer1{
+  opacity: 0;
+  transition: all 0.5s;
+}
+.lyer1:hover{
+  opacity: 1;
+}
